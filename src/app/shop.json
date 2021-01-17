@@ -1,0 +1,11 @@
+{
+    "products" :[
+    {"id":1 ,"name":"Laptop","price":"2000","catergoryId":1,"description" :"Asus Zenbook","imageUrl":""}, 
+    {"id":1 ,"name":"Laptop","price":"2000","catergoryId":1,"description" :"Asus Zenbook","imageUrl":""} ,
+    {"id":1 ,"name":"Laptop","price":"2000","catergoryId":1,"description" :"Asus Zenbook","imageUrl":""}] ,
+    "categories" :[
+        {"id":1,"name": "Electronic"},
+      {"id":2,"name": "Computer"},
+      {"id":3,"name": "Music"},
+      {"id":2,"name":"Small Appliances"}]
+}    
